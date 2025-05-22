@@ -18,7 +18,4 @@ jobs:
       - name: Log into Docker Hub
         uses: docker/login-action@v2
 
-        -name: Publish to container image
-        run: dotnet publish -c Release -o ./publish
-
       
