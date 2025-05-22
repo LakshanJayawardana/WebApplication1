@@ -1,0 +1,6 @@
+/home/lakshan/Desktop/dotnet/WebAPP/WebApplication1/published/appsettings.Development.json
+/home/lakshan/Desktop/dotnet/WebAPP/WebApplication1/published/appsettings.json
+/home/lakshan/Desktop/dotnet/WebAPP/WebApplication1/published/WebApplication1.dll
+/home/lakshan/Desktop/dotnet/WebAPP/WebApplication1/published/WebApplication1.deps.json
+/home/lakshan/Desktop/dotnet/WebAPP/WebApplication1/published/WebApplication1.runtimeconfig.json
+/home/lakshan/Desktop/dotnet/WebAPP/WebApplication1/published/WebApplication1.pdb

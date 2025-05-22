@@ -1,0 +1,7 @@
+/home/lakshan/Desktop/dotnet/WebAPP/WebApplication1/bin/Release/net8.0/linux-x64/publish/WebApplication1
+/home/lakshan/Desktop/dotnet/WebAPP/WebApplication1/bin/Release/net8.0/linux-x64/publish/appsettings.Development.json
+/home/lakshan/Desktop/dotnet/WebAPP/WebApplication1/bin/Release/net8.0/linux-x64/publish/appsettings.json
+/home/lakshan/Desktop/dotnet/WebAPP/WebApplication1/bin/Release/net8.0/linux-x64/publish/WebApplication1.dll
+/home/lakshan/Desktop/dotnet/WebAPP/WebApplication1/bin/Release/net8.0/linux-x64/publish/WebApplication1.deps.json
+/home/lakshan/Desktop/dotnet/WebAPP/WebApplication1/bin/Release/net8.0/linux-x64/publish/WebApplication1.runtimeconfig.json
+/home/lakshan/Desktop/dotnet/WebAPP/WebApplication1/bin/Release/net8.0/linux-x64/publish/WebApplication1.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rB8WNYZ/7+o=",
+  "success": true,
+  "projectFilePath": "/home/lakshan/Desktop/dotnet/WebAPP/WebApplication1/WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "/home/lakshan/.nuget/packages/microsoft.netcore.app.host.linux-musl-x64/8.0.14/microsoft.netcore.app.host.linux-musl-x64.8.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
