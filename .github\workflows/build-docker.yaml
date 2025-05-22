@@ -1,0 +1,15 @@
+name: Build and Push .NET App using GitHub actions
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  publish-container:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      
