@@ -18,6 +18,20 @@ jobs:
       - name: Log in to Docker Hub
         run: |
           docker login -u lakshanjay -p ${{ secrets.DOCKER_HUB_TOKEN }}
-          docker push lakshanjay/webapplication1:1.6
+        
+      - name: Build docker image
+        run: |
+          docker build -t lakshanjay/webapplication1:1.5 .
+        
+      - name: Show build images
+        run: |
+          docker images
+      - name: Show running containers
+        run: |
+          docker ps -a
+
+      - name: Push docker image
+        run: |
+          docker push lakshanjay/webapplication1:1.5
 
       
