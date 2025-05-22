@@ -14,6 +14,8 @@ jobs:
         uses: actions/setup-dotnet@v3
         with:
           dotnet-version: '8.0.x'
-        
+         
+      - name: Log in to Docker Hub
+        run: docker login -u lakshanjay -p ${{ secrets.DOCKER_HUB_TOKEN }}
 
       
