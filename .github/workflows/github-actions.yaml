@@ -18,6 +18,6 @@ jobs:
       - name: Log in to Docker Hub
         run: |
           docker login -u lakshanjay -p ${{ secrets.DOCKER_HUB_TOKEN }}
-          docker push lakshanjay/webapplication1/1.6
+          docker push lakshanjay/webapplication1:1.6
 
       
