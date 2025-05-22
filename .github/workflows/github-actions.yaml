@@ -1,7 +1,11 @@
 name: Build and Push .NET App using GitHub actions
 
 on:
-  [workflow_dispatch]
+  push:
+    branches:
+      - main
+  paths:
+    - 'dockerfile'
 
 jobs:
   publish-images:
