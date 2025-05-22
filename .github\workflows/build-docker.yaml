@@ -1,9 +1,7 @@
 name: Build and Push .NET App using GitHub actions
 
 on:
-  push:
-    branches:
-      - main
+  [workflow_dispatch]
 
 jobs:
   publish-container:
